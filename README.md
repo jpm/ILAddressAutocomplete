@@ -72,7 +72,7 @@ There's ILAddressInfoLookup for that purpose, which uses a different API call to
 Joao Prado Maia
 
 - http://ipanemalabs.com
-- http://github.com/joaopmaia
+- http://github.com/jpm
 - http://twitter.com/joaopmaia
 - jpm@ipanemalabs.com
 
